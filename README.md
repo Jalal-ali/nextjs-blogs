@@ -1,8 +1,4 @@
-# Next.js Foundations Starter
-
-A Turborepo monorepo starter for the Next.js Foundations certification course.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnextjs-foundations-starter)
+# Next.js Blogs
 
 ## Getting Started
 
